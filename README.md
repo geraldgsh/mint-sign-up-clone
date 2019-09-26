@@ -1,6 +1,6 @@
 # Foobar
 
-Microverse Mint sign in clone project
+Microverse/OdinProject Mint sign in clone project
 
 ## Introduction
 
