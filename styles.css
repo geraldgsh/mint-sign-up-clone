@@ -1,0 +1,202 @@
+/* MAIN STUFF*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+    font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    background: #ECEEF1;
+    color: #505050;
+}
+
+a {
+    text-decoration: none;
+    color: #0077C5;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+/*-----------*/
+
+/* INIT HEADER SECTION*/
+.sign-in-header {
+	height: 185px;
+}
+
+.sign-in-section:before, .sign-in-section:after {
+    content: "";
+    display: table;
+}
+
+.sign-in-section:after {
+    clear: both;
+}
+
+.sign-in-section {
+    *zoom: 1;
+}
+
+#sign-in {
+	float: right;
+    margin: 12px 40px;
+}
+
+#sign-in p:hover {
+    text-decoration: none;
+}
+
+#sign-in p {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+#sign-in p, #sign-in button {
+    display: inline-block;
+}
+
+#sign-in button {
+    background: #0077C5;
+    background-image: url("images/icons/whitelock1.png");
+    background-repeat: no-repeat;
+    background-position: 20px 50%;
+    color: white;
+    border: 1px solid #4c4c4c;
+    border-radius: 4px;
+    padding: 9px 25px;
+    margin-left: 5px;
+    vertical-align: top;
+}
+
+#sign-in button a {
+    margin-left: 13px;
+    color: white;
+}
+
+#logos {
+    width: 320px;
+    margin: 30px auto 10px auto;
+}
+
+#logos div {
+    text-align: center;
+    margin-bottom: 20px;
+}
+/* END HEADER SECTION*/
+
+
+/* INIT FORM SECTION*/
+.form-section {
+    background: white;
+    color: #4C4C4C;
+    border: 1px solid #c7c7c7;
+    border-radius: 2px;
+    width: 375px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.form-section h1 {
+    font-size: 24px;
+    font-weight: normal;
+    margin: 30px 30px 20px 30px;
+}
+
+.form-section p, .sign-up-form div label {
+    font-size: 14px;
+}
+
+.form-section p a {
+    font-size: 12px;
+}
+
+.sign-up-form div {
+    margin: 28px;
+    width: 85%;
+}
+
+.sign-up-form div label {
+    display: block;
+    text-align: left;
+    margin-bottom: 12px;
+}
+
+.sign-up-form div input {
+    width: 100%;
+    height: 35px;
+    padding-left: 7px;
+    border: 1px solid #C1C5C8;
+    border-radius: 3px;
+}
+
+.sign-up-form div span {
+    font-size: 10px;
+    display: block;
+    padding: 5px 0;
+    text-align: left;
+}
+
+.sign-up-form button {
+    background: #0077C5;
+    background-image: url("images/icons/whitelock2.png");
+    background-repeat: no-repeat;
+    background-position: 84px 50%;
+    border: #0077C5;
+    border-radius: 5px;
+    padding: 13px 105px;
+    font-size: 16px;
+}
+
+.sign-up-form button a {
+    color: white;
+    text-decoration: none;
+}
+
+.sign-up-form button a:hover {
+    text-decoration: none;
+}
+
+#field-form-set{
+    border: 0;
+}
+
+#agreement-warning {
+    font-size: 12px;
+    font-style: italic;
+    line-height: 24px;
+    margin: 35px;
+}
+
+#google-captcha {
+    background: #ECEEF1;
+    color: #8d9096;
+    font-size: 10px;
+    padding: 20px 0;
+}
+
+/*END FORM SECTION*/
+
+/* INIT FOOTER SECTION*/
+.main-footer {
+    width: 58%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.main-footer small {
+    font-size: 12px;
+}
+
+.footer-nav li {
+    display: inline-block;
+}
+
+.footer-nav li a {
+    color: #505050;
+    margin: 3px;
+    font-size: 12px;
+}
+/* END FOOTER SECTION*/

@@ -1,0 +1,74 @@
+<!-- Hello -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<link rel="stylesheet" href="styles.css" />
+	<link rel="icon" href="images/icons/favicon.png">
+	<title>Intuit Accounts - Sign Up</title>
+</head>
+<body>
+	<header class="sign-in-header">
+		<div class="sign-in-section">
+			<div id="sign-in">
+				<p>&ThickSpace;&ThickSpace;Already have an Intuit account?<br>
+					<a href="#">I forgot my User ID or Password</a>
+				</p>
+				<button>&ThickSpace;&ThickSpace;Sign In</button>
+			</div>
+		</div>
+		<div id="logos">
+			<div><img src="images/intuit-logo.png" alt="logo of Intuit"></div>
+			<img src="images/mint-logo.png" alt="logo of Mint">
+            <img src="images/quickbooks-logo.png" alt="logo of QuickBoobs">
+            <img src="images/turbotax-logo.png" alt="logo of TurboTax">
+		</div>		
+	</header>
+	<main class="form-section">
+		<h1>Create an Intuit Account.<br>
+		</h1>
+		<p>One account for everything Intuit, including Mint. <br> <a href="#">Learn more</a>
+		</p>
+		<form action="#" method="post" class="sign-up-form">
+			<fieldset id="field-form-set">
+				<div>
+					<label for="mail">Email Address</label>
+                	<input type="email" name="user-email" id="mail" required>
+				</div>
+				<div>
+					<label for="telphone">Phone (recommended)</label>
+					<input type="tel" name="user-telephone" id="telphone" pattern="[0-9]">
+					<span>standard call, messaging or data rates may apply.</span>
+				</div>
+				<div>
+					<label for="pwd">Password</label>
+                	<input type="password" name="user-password" id="pwd" required>
+				</div>
+				<button type="submit"><span style="color:white">Create Account</span>
+</button>
+				<p id="agreement-warning">By clicking Create Account, you agree to our<br>
+                <a href="#">License Agreement</a> and have read and acknowledge<br>
+                our <a href="#">Privacy Statement</a>.
+            	</p>
+			</fieldset>
+		</form>
+		<div id="google-captcha">
+            <span>Invisible reCAPTCHA by Google 
+            <a href="#">Privacy Policy</a> and 
+            <a href="#">Terms of Use</a>.</span>
+        </div>
+	</main>
+	<footer class="main-footer">
+		<nav class="footer-nav">
+			<ul>
+				<li><a href="#">Legal</a></li>
+				<li><a href="#">Privacy</a></li>
+				<li><a href="#">Security</a></li>
+			</ul>
+			<small>&copy; 2019 Intuit, Inc. All rights reserved. Intuit, OuickBooks, QB, TurboTax, ProConnect and Mint are registered trademarks of Intuit Inc.<br>
+                Terms and Conditions, features, support, pricing, and service options subject to change without notice.
+        	</small>
+		</nav>		
+	</footer>
+</body>
+</html>
