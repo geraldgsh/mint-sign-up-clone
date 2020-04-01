@@ -1,11 +1,20 @@
-# Foobar
+# Microverse Project Title - HTML Form
+[Collaborative Project]
+HTML + CSS
 
-Microverse/OdinProject Mint sign in clone project
+### Snapshot
+
+![]()
 
 ## Introduction
 
-In this project, students get a chance to rebuild the form used by Mint.com for signing up new users.
+This project consists of building an HTML document that matches the appearance of mint.com’s signup page
 
+You can find the original project specification at: https://www.theodinproject.com/courses/html5-and-css3/lessons/html-forms
+
+## Project Specific
+
+Pay attention to the type of <input> tags you are going to use in your <form>.
 
 ## Steps
 
@@ -23,9 +32,57 @@ In this project, students get a chance to rebuild the form used by Mint.com for 
 
 7. Push your solution up to Github and you’re good to go!
 
+#### Mint Sign Up clone
+
+Built with HTML & CSS
 
 ## References
 [The Odin Project](https://www.theodinproject.com/courses/html5-and-css3/lessons/html-forms)
 [shayhowe](https://learn.shayhowe.com/html-css/building-forms/)
 [W3](https://www.w3schools.com/html/html_forms.asp)
 [MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
+
+#### Live Demo
+[Demo](https://geraldgsh.github.io/mint-sign-up-clone/)
+
+#### Getting Started
+Clone repo and run index.html
+
+#### Prerequisites
+Web browser like Chrome, Mozilla or similar.
+
+### Original Project Source
+https://www.theodinproject.com/courses/html5-and-css3/lessons/html-forms
+
+### Github Repo
+https://github.com/geraldgsh/mint-sign-up-clone
+
+?? **Author**
+Github: [David Martinez](https://github.com/davitomix)
+
+Linkedin: [David Martinez](https://www.linkedin.com/in/davideligarcia/)
+
+Github: [geraldgsh](https://github.com/geraldgsh)
+
+Twitter: [geraldgsh](https://github.com/geraldgsh)
+
+Linkedin: [Gerald Goh](https://www.linkedin.com/geraldgsh)
+
+## ?? Contributing
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/geraldgsh/mint-sign-up-clone/issues).
+
+## Show your support
+
+Give a ?? if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## License
+
+This project is [MIT](lic.url) licensed.
