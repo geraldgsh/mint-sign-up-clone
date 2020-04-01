@@ -4,7 +4,7 @@ HTML + CSS
 
 ### Snapshot
 
-![]()
+![](https://github.com/geraldgsh/mint-sign-up-clone/blob/master/images/screenshot.JPG)
 
 ## Introduction
 
