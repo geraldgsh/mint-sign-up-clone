@@ -57,7 +57,11 @@ https://www.theodinproject.com/courses/html5-and-css3/lessons/html-forms
 ### Github Repo
 https://github.com/geraldgsh/mint-sign-up-clone
 
+### Future feature
+1. Add background image
+
 ?? **Author**
+
 Github: [David Martinez](https://github.com/davitomix)
 
 Linkedin: [David Martinez](https://www.linkedin.com/in/davideligarcia/)
@@ -68,14 +72,14 @@ Twitter: [geraldgsh](https://github.com/geraldgsh)
 
 Linkedin: [Gerald Goh](https://www.linkedin.com/geraldgsh)
 
-## ?? Contributing
+## Contributing
 Contributions, issues and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/geraldgsh/mint-sign-up-clone/issues).
 
 ## Show your support
 
-Give a ?? if you like this project!
+Give a * if you like this project!
 
 ## Acknowledgments
 
